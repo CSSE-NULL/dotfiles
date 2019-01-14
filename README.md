@@ -5,7 +5,9 @@ backup some linux dotfiles
 - pip
 - icons & themes
 
-# some other resources:
+## some other resources:
 1. proxychains: https://github.com/haad/proxychains
 2. zsh:https://github.com/robbyrussell/oh-my-zsh
 
+## Reference:
+https://github.com/zingdle/dotfiles

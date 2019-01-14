@@ -1,0 +1,12 @@
+[user]
+	email = sectumsempra@yeah.net
+	name = hq
+[alias]
+	last = log -1 HEAD
+    bco = "!f(){ git branch ${1} && git checkout ${1}; };f"
+	st = status
+	co = checkout
+	ci = commit
+	br = branch
+[core]
+	excludesfile = /home/hq/.gitignore_global
